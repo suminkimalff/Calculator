@@ -1,0 +1,9 @@
+C:\Users\myksm\source\repos\Taschenrechner fuer git\bin\Debug\Taschenrechner fuer git.exe.config
+C:\Users\myksm\source\repos\Taschenrechner fuer git\bin\Debug\Taschenrechner fuer git.exe
+C:\Users\myksm\source\repos\Taschenrechner fuer git\bin\Debug\Taschenrechner fuer git.pdb
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.csprojAssemblyReference.cache
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner_fuer_git.Form1.resources
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner_fuer_git.Properties.Resources.resources
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.csproj.GenerateResource.cache
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.exe
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.pdb
