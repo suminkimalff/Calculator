@@ -116,8 +116,9 @@
             this.buttonSign.Name = "buttonSign";
             this.buttonSign.Size = new System.Drawing.Size(75, 76);
             this.buttonSign.TabIndex = 23;
-            this.buttonSign.Text = "+/-";
+            this.buttonSign.Text = "(-)";
             this.buttonSign.UseVisualStyleBackColor = true;
+            this.buttonSign.Click += new System.EventHandler(this.buttonSign_Click);
             // 
             // button3
             // 

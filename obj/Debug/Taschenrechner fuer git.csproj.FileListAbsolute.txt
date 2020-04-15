@@ -7,3 +7,4 @@ C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner_fue
 C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.csproj.GenerateResource.cache
 C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.exe
 C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.pdb
+C:\Users\myksm\source\repos\Taschenrechner fuer git\obj\Debug\Taschenrechner fuer git.csproj.CoreCompileInputs.cache
